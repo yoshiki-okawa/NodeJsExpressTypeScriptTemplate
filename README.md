@@ -16,7 +16,11 @@ Template for Node.JS (Express v4) + TypeScript + Visual Studio
    typings install
    ```
 
-1. Open solution file, right-click npm, and install missing npm Packages
+1. Open solution file, right-click npm, and install missing npm packages or run the following command
+
+   ```
+   npm install
+   ```
 
 ## Build
 
