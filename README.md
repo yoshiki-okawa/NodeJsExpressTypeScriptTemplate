@@ -10,10 +10,12 @@ Template for Node.JS (Express v4) + TypeScript + Visual Studio
 ## Install packages
 
 1. Run the following commands under project directory
-	```
-	npm install typings --global
-	typings install
-	```
+
+   ```
+   npm install typings --global
+   typings install
+   ```
+
 1. Open solution file, right-click npm, and install missing npm Packages
 
 ## Build
